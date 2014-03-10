@@ -1,0 +1,5 @@
+"LOC_CLOSE" = "Close";
+"LOC_OPEN" = "Open";
+"LOC_PLAY" = "Play";
+"LOC_PAUSE" = "Pause";
+"LOC_STOP" = "Stop";
