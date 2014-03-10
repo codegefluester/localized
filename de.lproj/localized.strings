@@ -3,3 +3,9 @@
 "LOC_PLAY" = "Abspielen";
 "LOC_PAUSE" = "Pause";
 "LOC_STOP" = "Stop";
+
+/* User accounts */
+"LOC_REGISTER" = "Registrieren";
+"LOC_LOGIN" = "Einloggen";
+"LOC_LOGOUT" = "Ausloggen";
+"LOC_DELETE_ACCOUNT" = "Konto löschen";
