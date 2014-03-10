@@ -5,12 +5,14 @@ A library of common strings in various languages to use in your iOS and OS X App
 
 Languages
 =========
-English	100%   
-German	100%   
-Spanish	0%   
-French	0%   
-Italian	0%   
-Dutch	0%   
+| Language | Complete % |
+|----------|------------|
+| English  | 100%	|   
+| German   | 100%	|   
+| Spanish  | 0%		|   
+| French   | 0%		|   
+| Italian  | 0%		|   
+| Dutch	   | 0%		|   
 
 How to contribute
 =========
