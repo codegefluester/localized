@@ -1,3 +1,4 @@
+/* General UI strings */
 "LOC_CLOSE" = "Close";
 "LOC_OPEN" = "Open";
 "LOC_PLAY" = "Play";
@@ -32,3 +33,9 @@
 "LOC_PHONE" = "Phone";
 "LOC_CELLPHONE" = "Cell number";
 "LOC_FAX" = "Fax number";
+
+/* Social */
+"LOC_TWEET" = "Tweet";
+"LOC_FACEBOOK" = "Share on Facebook";
+"LOC_EMAIL" = "Share via Email";
+"LOC_RECOMMEND" = "Recommend";

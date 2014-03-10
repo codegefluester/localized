@@ -33,3 +33,9 @@
 "LOC_PHONE" = "Telefonnummer";
 "LOC_CELLPHONE" = "Handynummer";
 "LOC_FAX" = "Faxnummer";
+
+/* Social */
+"LOC_TWEET" = "Twittern";
+"LOC_FACEBOOK" = "Auf Facebook teilen";
+"LOC_EMAIL" = "Per E-Mail versenden";
+"LOC_RECOMMEND" = "Weiterempfehlen";
