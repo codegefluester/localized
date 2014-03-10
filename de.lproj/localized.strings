@@ -9,3 +9,18 @@
 "LOC_LOGIN" = "Einloggen";
 "LOC_LOGOUT" = "Ausloggen";
 "LOC_DELETE_ACCOUNT" = "Konto löschen";
+"LOC_FORGOT_PASSWORD" = "Passwort vergessen?";
+"LOC_USERNAME" = "Benutzername";
+"LOC_EMAIL" = "E-Mail";
+
+/* Address strings */
+"LOC_STREET" = "Straße";
+"LOC_HOUSENO" = "Hausnummer";
+"LOC_CITY" = "Ort";
+"LOC_ZIP" = "PLZ";
+"LOC_STATE" = "Bundesland";
+"LOC_COUNTRY" = "Land";
+
+/* Contact details */
+"LOC_PHONE" = "Telefonnummer";
+"LOC_CELLPHONE" = "Handynummer";
