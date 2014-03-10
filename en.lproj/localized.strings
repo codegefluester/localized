@@ -3,6 +3,13 @@
 "LOC_PLAY" = "Play";
 "LOC_PAUSE" = "Pause";
 "LOC_STOP" = "Stop";
+"LOC_FAST_FORWARD" = "Fast-forward";
+"LOC_FAST_REWIND" = "Rewind";
+"LOC_NEXT" = "Next";
+"LOC_BACK" = "Back";
+"LOC_SAVE" = "Save";
+"LOC_EDIT" = "Edit";
+"LOC_DELETE" = "Delete";
 
 /* User accounts */
 "LOC_REGISTER" = "Register";
@@ -24,3 +31,4 @@
 /* Contact details */
 "LOC_PHONE" = "Phone";
 "LOC_CELLPHONE" = "Cell number";
+"LOC_FAX" = "Fax number";

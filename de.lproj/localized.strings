@@ -1,8 +1,16 @@
+/* General UI strings */
 "LOC_CLOSE" = "Schließen";
 "LOC_OPEN" = "Öffnen";
 "LOC_PLAY" = "Abspielen";
 "LOC_PAUSE" = "Pause";
 "LOC_STOP" = "Stop";
+"LOC_FAST_FORWARD" = "Vorspulen";
+"LOC_FAST_REWIND" = "Zurückspulen";
+"LOC_NEXT" = "Weiter";
+"LOC_BACK" = "Zurück";
+"LOC_SAVE" = "Speichern";
+"LOC_EDIT" = "Bearbeiten";
+"LOC_DELETE" = "Löschen";
 
 /* User accounts */
 "LOC_REGISTER" = "Registrieren";
@@ -24,3 +32,4 @@
 /* Contact details */
 "LOC_PHONE" = "Telefonnummer";
 "LOC_CELLPHONE" = "Handynummer";
+"LOC_FAX" = "Faxnummer";
