@@ -1,0 +1,24 @@
+/* General UI strings */
+"LOC_STOP" = "Alto";
+"LOC_BACK" = "Volver";
+"LOC_EDIT" = "Editar";
+"LOC_DELETE" = "Eliminar";
+
+/* User accounts */
+"LOC_LOGIN" = "Iniciar sesión";
+"LOC_LOGOUT" = "Cerrar sesión";
+"LOC_EMAIL" = "Correo";
+
+/* Address strings */
+"LOC_STREET" = "Calle";
+"LOC_CITY" = "Ciudad";
+"LOC_ZIP" = "CP";
+"LOC_STATE" = "Estado";
+"LOC_COUNTRY" = "País";
+
+/* Contact details */
+"LOC_PHONE" = "Teléfono";
+"LOC_CELLPHONE" = "Móvil";
+"LOC_FAX" = "Fax";
+
+/* Social */
