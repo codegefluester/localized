@@ -22,3 +22,6 @@
 "LOC_FAX" = "Fax";
 
 /* Social */
+"LOC_RECOMMEND" = "Recomendar";
+"LOC_LIKE" = "Me gusta";
+"LOC_SHARE" = "Compartir";

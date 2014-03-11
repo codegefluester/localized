@@ -39,3 +39,5 @@
 "LOC_FACEBOOK" = "Share on Facebook";
 "LOC_EMAIL" = "Share via Email";
 "LOC_RECOMMEND" = "Recommend";
+"LOC_LIKE" = "Like";
+"LOC_SHARE" = "Share";
